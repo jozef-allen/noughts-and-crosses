@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Noughts and Crosses
+
+Noughts and Crosses is the British name for Tic Tac Toe. I completed this in an afternoon as part of a challenge on the hackajob website.
+
+You can view a live version at: https://stalwart-eclair-1c414c.netlify.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
